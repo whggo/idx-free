@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm -rf sbx .tmp >/dev/null 2>&1
 
 ARCH=$(uname -m)
