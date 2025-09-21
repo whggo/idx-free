@@ -8,8 +8,12 @@
 ---
 ## 运行命令
 ```
-wget https://raw.githubusercontent.com/byJoey/idx-free/refs/heads/main/install.sh
+wget https://raw.githubusercontent.com/whggo/idx-free/refs/heads/main/install.sh
 bash install.sh
+```
+## 或者
+```
+curl -sSL https://raw.githubusercontent.com/whggo/idx-free/refs/heads/main/install.sh | sh
 ```
 ## vps或者软路由安装火狐
 ```
